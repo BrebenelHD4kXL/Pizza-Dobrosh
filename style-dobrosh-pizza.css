@@ -1,0 +1,239 @@
+.bara{
+	width: 1530px;
+	height: 100px;
+	box-shadow: 0px 1px 3px grey;
+	position: fixed;
+	margin-top: 0px;
+	background-color: white;
+	z-index: 2;
+}
+.logo{
+	font-size: 50px;
+	font-family: Fjalla One,sans-serif;
+	margin-left: 200px;
+	margin-top: 20px;
+	display: inline-block;
+	margin-right: 320px;
+	vertical-align: middle;
+}
+a{
+	text-decoration: none;
+}
+a:visited{
+	color: black;
+}
+.buton_cat{
+       height: 40px;
+       width: 150px;
+       background: #333333;
+       color: white;
+       font-family: Verdika,sans-serif;
+       font-size: 16px;
+       font-weight: bold;
+       border-radius: 20px;
+       border: none;
+       margin-right: 20px;
+       transition: background-color 0.153s;
+       position: absolute;
+       margin-top: 30px;
+       margin-left: -50px;
+}
+.buton_cat:hover{
+	   background-color: black;
+	   cursor: pointer;
+}
+.buton_con{
+       height: 40px;
+       width: 150px;
+       color: white;
+       background-color: #db7d25;
+       font-family: Verdika,sans-serif;
+       font-size: 16px;
+       font-weight: bold;
+       border-radius: 20px;
+       border: none;
+       margin-right: 20px;
+       padding: 10px;
+       transition: background-color 0.153s;
+       position: absolute;
+       margin-top: 30px;
+       margin-left: 130px;
+}
+.buton_con:hover{
+       background-color: black;
+       cursor: pointer;
+}
+.buton_bani{
+       height: 40px;
+       width: 120px;
+       color: white;
+       background-color: #167a12;
+       font-family: Verdika,sans-serif;
+       font-size: 1em;
+       font-weight: bold;
+       border-radius: 20px;
+       border: none;
+       position: absolute;
+       margin-left: 300px;
+       margin-top: 30px;
+}
+.buton_bani:hover{
+	cursor: pointer;
+}
+#img-pizza-mare{
+	width: 1200px;
+	height: 400px;
+	margin-top: 5px;
+	margin-left: 180px;
+	border-radius: 20px;
+	margin-bottom: 30px;
+	display: block;
+}
+.img-pizza-mica{
+	width: 550px;
+	height: 333px;
+	display: inline-block;
+	border-radius: 10px;
+	margin-left: 180px;
+	margin-bottom: 50px;
+	position: relative;
+	opacity: 100%;
+	z-index: -2;
+}
+#img-pizza-mica-b{
+	margin-left: 90px;
+}
+.button-pizza{
+       width: 170px;
+	height:60px;
+	position: absolute;
+	margin-left: 380px;
+	margin-top: 200px;
+	border: 2px solid black;
+	display: inline-block;
+	font-size: 18px;
+	font-family: Open Sans,sans-serif;
+	background-color: black;
+	border-radius: 30px;
+	border: none;
+	color: white;
+	transition: background-color 0.153s;
+	z-index: 1;
+}
+.button-pizza:hover{
+	cursor: pointer;
+	background-color: orange;
+}
+.aplicatie{
+	height: 200px;
+	width: 1530px;
+       background:linear-gradient(to left,#e3908a, #e0c492, #dceba0);
+}
+#descarca{
+	display: inline-block;
+	font-family: Open Sans,sans-serif;
+	font-size: 25px;
+	line-height: 150px;
+	margin-left: 260px;
+	margin-right: 360px;
+}
+#pizza-dr-1{
+         margin-right: 500px;
+         margin-top: 180px;
+}
+#pizza-stg-1{
+	margin-left: 280px;
+	margin-top: 180px;
+}
+#pizza-dr-2{
+	margin-left: -995px;
+	margin-top: 560px;
+}
+#pizza-stg-2{
+	margin-top: 175px;
+	margin-left: 300px;
+}
+.buton-descarca{
+	background-color: black;
+	color: white;
+	font-family: Open Sans,sans-serif;
+	font-size: 18px;
+	border-radius: 25px;
+	border: none;
+	transition: background-color 0.153s;
+}
+#google-play{
+        width: 170px;
+        height: 50px;
+        margin-right: 20px;
+}
+#app-store{
+        width: 170px;
+        height: 50px;
+}
+.buton-descarca:hover{
+	cursor: pointer;
+	background-color: orange;
+}
+.cutie-text-1{
+	width: 300px;
+	height: 400px;
+	margin-top: 125px;
+	margin-left: 250px;
+	display: inline-block;
+	margin-right: 80px;
+	font-family: Open Sans,sans-serif;
+}
+#logo-2{
+	font-size: 32px;
+	padding: 10px;
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+#text{
+	font-size: 1em;
+	display: block;
+	margin-top: 10px;
+}
+#facebuci-1:hover{
+	color:orange;
+}
+#facebuci-2:hover{
+     color:orange;
+}
+#facebuci-2{
+	font-size: 18px;
+}
+.cutie-text-2{
+	display: inline-block;
+	width: 300px;
+	height: 300px;
+	margin-bottom: 50px;
+	font-family: Open Sans,sans-serif;
+	margin-right: 80px;
+}
+.contact-text:hover{
+    color: orange;
+    cursor: pointer;
+}
+.contact-titlu{
+	font-weight: bold;
+}
+.cutie-text-3{
+       width: 300px;
+	height: 300px;
+	display: inline-block;
+	margin-bottom: 50px;
+	font-family: Open Sans,sans-serif;
+}
+.informatii:hover{
+       color: orange;
+       cursor: pointer;
+}
+.copyright{
+	font-family: Open-sans,sans-serif;
+	color: grey;
+	text-align: center;
+}
